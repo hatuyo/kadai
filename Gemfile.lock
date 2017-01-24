@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    little-plugger (1.1.4)
+    logging (2.0.0)
+      little-plugger (~> 1.1)
+      multi_json (~> 1.10)
+    multi_json (1.12.1)
+    yard (0.9.5)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  logging (= 2.0.0)
+  yard (= 0.9.5)
+
+BUNDLED WITH
+   1.13.7
